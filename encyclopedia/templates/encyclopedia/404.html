@@ -1,0 +1,19 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    Encyclopedia
+{% endblock %}
+
+{% block body %}
+
+    <h1> ERROR!</h1>
+    {% csrf_token %}
+
+    <P>The entry exists already</P>
+
+    <div class="error">
+       
+    </div>
+
+
+{% endblock %}

@@ -1,0 +1,1 @@
+ its the abbreviation of information and technology
